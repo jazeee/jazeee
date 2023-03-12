@@ -1,4 +1,6 @@
-- Jaz Singh - @jazeee
+# Jaz Singh
+
+Github Profile: [@jazeee](https://github.com/jazeee)
 
 I'm a React staff software engineer/technical lead, primarily working on React and front-end projects.
 
