@@ -1,8 +1,10 @@
-- Hi, I’m Jaz - @jazeee
+- Jaz Singh - @jazeee
 
-I'm a full stack software engineer/architect, primarily working on React and front-end projects.
+I'm a React staff software engineer/technical lead, primarily working on React and front-end projects.
 
-Writing software professionally since 2000. 
+I've been writing software professionally since 2000.
 
-[Website](https://www.jazeee.com)
+[LinkedIn](https://www.linkedin.com/in/jazeee/)
+[LinkedIn Recommendations](https://www.linkedin.com/in/jazeee/details/recommendations/)
+[Website](https://jazeee.com)
 [Resume](https://goo.gl/qWsPm)
